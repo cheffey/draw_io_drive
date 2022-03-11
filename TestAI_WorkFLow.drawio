@@ -1,1 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T04:37:01.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="45bs4LBptpBkgUJ_q4Hv" version="17.1.1" type="github"><diagram id="wipesylDd6tYnFv5l5JR" name="Page-1">7VrLcpswFP0aLdNBiIe0FDbpY5pOps5MkyU1qqGDLRfLsd2vrwQCDCYu6TSW3XQV6eh1pXuO7hUOQKP59m0eLZMbHrMM2Fa8BWgMbBvaDpF/FLIrEc/TwCxPY92pASbpT6ZBS6PrNGarVkfBeSbSZRuc8sWCTUULi/Kcb9rdvvGsveoymrEDYDKNskP0SxqLpESx7Tf4O5bOkmplWO1vHlWd9U5WSRTzzR6EQoBGOeeiLM23I5apw6vOpRx3/URrbVjOFmLIgDu+9OCn6OqLuEfph4nz+Y79uNLGrsSu2jCL5f51leci4TO+iLKwQYOcrxcxU7Nastb0+cj5UoJQgt+ZEDvtzGgtuIQSMc90qzQ4393r8UXlQVXeuFV1vN1vHO90rbRVGfjkEWhoxdf5lB3Zd0WlKJ8xcaQfrh0lGc74nEl75LicZZFIH9t2RJpqs7pf4w1Z0A55hnP0vI9RttYrgdADZAQwUYXABTgAIQb0GhC3aHJBYKkCHgMaAtvL5N6Cr7kszVSJbxYsB4jKSXsmsEcFLueQKxQFLHFY4rc3qmPgADoGoQMColbqcqfNjE2SCjZZRoUjNvJ6aLNAb47lgm2P+/Pw/PUAR5ug7xZXVzeNUGGlvmRPpJ71Qg7zzKqpEdBDSz8vriZ7oJock2qye9TkA4oLDUjSU0X3kvRSDz3yOKqmQ9V0uxeyCfVqVGrUbsaWQ9Qk0hxEb99XYvRBECjVKU1TQB3VpIQuq74qUAgoMq5DG5+ZEOHh3XRKJUJjcQ1dQlxDvXGtG86kEhxAqA55dPTscGZYFK57ZqLwTWjiL3LbORG39dBbnkoLa3eiTrKBun4q7dKjOq6qzfhz7zk9oukGDuOc7wYCSEyTHvaE/cuWAR4oA/iEq05zx+Mhd/y50RUh43Tte/MVSSC5Ls4tVCmfzgZdJXwpf1nuyTZ9QByV3jZp5+GorhCyLF2u2O/Pvu2oF/CE4xv3hPevXRxwaHIIXZM3B+xPDyWTaRHpSPWGqh9qmADqF+qQrB6Zv1W8Npc92ziXX+1nvqE5I/SNUr4vufv/pW9PU+jsJNWT4Fx4eHAvQytuj1YIIAHAXiEIDIjVk+u0QsgYkMPXsOk44XumSV1z5dXFCX8g9/d+uTPBfb+H+1h9Cqa0uebPjdfEMs5rq+fcXsGrqn5FncATstr8ll1+9Gr+IwCFvwA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-11T06:48:49.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_RBK5PsSN5J2ifEI4nc9" version="17.1.1" type="github">
+  <diagram id="wipesylDd6tYnFv5l5JR" name="Page-1">
+    <mxGraphModel dx="1249" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eqnu55VA6WnF2xDNIzty-1" value="持续测试" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="349" y="159" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Top61Na-WtX3iJS4RTeq-1" target="Top61Na-WtX3iJS4RTeq-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="127" y="351" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-1" value="有测试数据&lt;br&gt;owner: 测试, 开发, PM购买" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="67" y="41" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Top61Na-WtX3iJS4RTeq-2" target="Top61Na-WtX3iJS4RTeq-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-2" value="程序可测试&lt;br&gt;owner: 开发&lt;br&gt;例如: 发布API, 维护API文档" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="427" y="41" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Top61Na-WtX3iJS4RTeq-3" target="Top61Na-WtX3iJS4RTeq-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="317" y="351" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-3" value="测试脚本&lt;br&gt;owner: 测试" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="247" y="41" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Top61Na-WtX3iJS4RTeq-4" target="Top61Na-WtX3iJS4RTeq-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="487" y="351" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-4" value="发布" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="427" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Top61Na-WtX3iJS4RTeq-8" target="Top61Na-WtX3iJS4RTeq-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-8" value="测试" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="427" y="321" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-11" value="统计报告&lt;br&gt;用例报告" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="427" y="461" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Top61Na-WtX3iJS4RTeq-13" target="Top61Na-WtX3iJS4RTeq-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-13" value="模型可执行" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Top61Na-WtX3iJS4RTeq-14" target="Top61Na-WtX3iJS4RTeq-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-14" value="有测试数据&lt;br&gt;owner: 测试, 开发, PM购买" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Top61Na-WtX3iJS4RTeq-15" target="Top61Na-WtX3iJS4RTeq-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-15" value="集成报告模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Top61Na-WtX3iJS4RTeq-17" target="Top61Na-WtX3iJS4RTeq-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-17" value="自测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Top61Na-WtX3iJS4RTeq-20" value="统计报告&lt;br&gt;用例报告" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
